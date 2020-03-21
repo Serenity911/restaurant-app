@@ -21,5 +21,5 @@ Features includes:
 ### To run locally:
 
 1. open the back_end folder in INTELLIJ IDEA and run RestaurantBookerApplication
-2. in the folder restaurant-booker, from CLI `npm i` and `npm start`
+2. in the folder restaurant-booker, from CLI run `npm i` and `npm start`
 
