@@ -1,5 +1,7 @@
 # Restaurant booking management app
 
+Here you can find the app deployed online on Heroku - at the moment, it needs a minute to load the back end and render the page correctly: https://restaurant-booking-react-app.herokuapp.com/
+
 Built from scratch in a 6 day long group project using:
 
 * React.js
